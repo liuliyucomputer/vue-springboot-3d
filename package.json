@@ -1,0 +1,22 @@
+{
+  "name": "interview",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "three": "^0.164.1",
+    "three-stl-loader": "^1.0.6",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@types/three": "^0.164.0",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.8"
+  }
+}
